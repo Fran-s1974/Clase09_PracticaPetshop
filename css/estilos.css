@@ -44,4 +44,82 @@
   margin-top: 50px;
   padding: 20px;
   text-align: center;
+  color: #3c2313;
+}
+
+.medio-del-cuerpo{
+  text-align: center;
+  margin: 15px;
+}
+
+.bowl-mid{
+ background-image: url(../img/bowl-and-pet-daities-on-green-background\ 1.png);
+ background-size: 110%;
+ background-repeat: no-repeat;
+ background-position-y:230px;
+}
+
+.palabra_naranja{
+  color: #ffffff;
+  background-color:#f0a83e ;
+}
+.palabra_naranjadiv{
+  text-align: center;
+}
+
+.PRODUCTOS{
+  font-size: 35px;
+padding-top: 40%;
+padding-bottom:2%;
+color: #3c2313;
+
+}
+
+.cosas{
+  color:#666666;
+}
+
+.objetos-de-la-tienda{
+  background-color:#FBFAF6;
+}
+ .objeto-1{
+  font-weight: bold;
+  color: #3C2313;
+
+ }
+ .pracio{
+ color: #F0A83E;
+ padding-top:20px;
+ }
+
+ /* footer */
+.footer{
+ background-color:#3C2313;
+}
+.footer-palabras{
+  color: #ffffff;
+  padding-top: 20px;
+  padding-bottom: 20px
+}
+.footer-palabras-2{
+  color: #666666;
+  padding-top: 20px;
+  padding-bottom: 5px
+}
+.logo-footer {
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 20px;
+}
+.texto-logo-footer {
+  color: #ffffff;
+}
+.texto-logo-footer2 {
+  color: #F0A83E;
+}
+.palabra-fondo{
+  text-align: center;
+  background-color: #F0A83E;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
